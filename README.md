@@ -34,7 +34,7 @@
 - **설명**: Spring과 JPA를 활용한 온라인 도서 쇼핑몰 서비스
 - **주요 기능**: 사용자 로그인/회원가입, 도서 검색/리뷰 작성 및 삭제, 장바구니 담기/삭제, 주문 결제 및 취소, 마이페이지 이동 및 포인트 조회 등
 - **기술 스택**: Spring Boot, Spring Security, MySQL, Thymeleaf, Redis, Elastic Search, Spring MVC, Spring JPA, Minio, Rabbit MQ, NGINX, CloudFlare
-- **바로가기**: [🔗 Repository]([https://github.com/your-username/project-a](https://github.com/nhnacademy-be10-DoDream))
+- **바로가기**: [🔗 Repository](https://github.com/nhnacademy-be10-DoDream)
 
 <br>
 
